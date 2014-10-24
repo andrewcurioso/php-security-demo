@@ -1,0 +1,5 @@
+<h2>Oops!</h2>
+
+<?php
+
+echo "<p>Hello <code>$_SERVER[REMOTE_ADDR]</code> I guess this server isn't safe after all.</p>";
